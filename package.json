@@ -47,7 +47,7 @@
     "load-grunt-tasks": "^3.5.0",
     "markdown-it": "^7.0.0",
     "markdown-it-container": "^2.0.0",
-    "morgan": "~1.6.1",
+    "morgan": "~1.10.0",
     "multer": "^1.2.0",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
